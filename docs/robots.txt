@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://
-helpcommvault.readthedocs.io/en/latest/
+Sitemap: https://helpcommvault.readthedocs.io/en/latest/
